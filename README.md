@@ -6,7 +6,7 @@ This is Clone of Rozorpay which is created by Tailwind Css
 
 ## Authors
 
-- [@nirmal38](https://www.github.com/octokatherine)
+- [@nirmal38](https://www.github.com/nirmal38)
 
 
 ## Demo
