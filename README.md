@@ -13,7 +13,7 @@ This is Clone of Rozorpay which is created by Tailwind Css
 
  link to demo
 
- https://nirmal38.github.io/RozorpayClone/
+ https://cheery-salamander-624f5c.netlify.app/
 ## Deployment
 
 To deploy this project run
